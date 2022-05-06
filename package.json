@@ -1,0 +1,15 @@
+{
+  "name": "rss-reader-nodejs",
+  "version": "1.0.0",
+  "description": "1-> npm init",
+  "main": "downloadfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-downloader-helper": "^2.1.1",
+    "xml2js": "^0.4.23"
+  }
+}
